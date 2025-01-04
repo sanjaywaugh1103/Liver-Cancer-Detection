@@ -1,5 +1,5 @@
 
-# Liver Cancer Detection Using Image Processing
+# Liver Cancer Detection
 
 This project implements a liver cancer detection system using image processing techniques in Python, 
 leveraging the capabilities of Jupyter Notebook.
